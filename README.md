@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pallavi-agrahari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pallavi-agrahari/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -12,5 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pallavi-agrahari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pallavi-agrahari/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pallavi-agrahari/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
