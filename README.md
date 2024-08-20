@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pallavi-agrahari/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/pallavi-agrahari/LeetCode/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pallavi-agrahari/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pallavi-agrahari/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
