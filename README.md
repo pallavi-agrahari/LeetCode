@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pallavi-agrahari/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/pallavi-agrahari/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/pallavi-agrahari/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pallavi-agrahari/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pallavi-agrahari/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/pallavi-agrahari/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pallavi-agrahari/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pallavi-agrahari/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pallavi-agrahari/LeetCode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pallavi-agrahari/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
