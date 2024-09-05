@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pallavi-agrahari/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pallavi-agrahari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pallavi-agrahari/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pallavi-agrahari/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pallavi-agrahari/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -121,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pallavi-agrahari/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
