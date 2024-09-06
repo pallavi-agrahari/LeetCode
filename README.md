@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pallavi-agrahari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pallavi-agrahari/LeetCode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pallavi-agrahari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pallavi-agrahari/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pallavi-agrahari/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/pallavi-agrahari/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pallavi-agrahari/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
