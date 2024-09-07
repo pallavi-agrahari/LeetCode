@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pallavi-agrahari/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pallavi-agrahari/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pallavi-agrahari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pallavi-agrahari/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pallavi-agrahari/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [2047-find-a-peak-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Recursion
 |  |
 | ------- |
