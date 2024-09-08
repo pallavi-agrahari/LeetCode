@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pallavi-agrahari/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0507-perfect-number) |
 ## Dynamic Programming
 |  |
 | ------- |
