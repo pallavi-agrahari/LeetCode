@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pallavi-agrahari/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pallavi-agrahari/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/pallavi-agrahari/LeetCode/tree/master/0561-array-partition) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pallavi-agrahari/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pallavi-agrahari/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pallavi-agrahari/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pallavi-agrahari/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/pallavi-agrahari/LeetCode/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pallavi-agrahari/LeetCode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pallavi-agrahari/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pallavi-agrahari/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
