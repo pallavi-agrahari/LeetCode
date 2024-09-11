@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        ListNode temp=head;
+        // ListNode temp=head;
         ListNode slow=head;
         ListNode fast=head;
         if(fast.next==null){
