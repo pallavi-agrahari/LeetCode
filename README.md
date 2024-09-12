@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pallavi-agrahari/LeetCode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pallavi-agrahari/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pallavi-agrahari/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pallavi-agrahari/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pallavi-agrahari/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pallavi-agrahari/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pallavi-agrahari/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pallavi-agrahari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
