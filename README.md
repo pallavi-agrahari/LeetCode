@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pallavi-agrahari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pallavi-agrahari/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pallavi-agrahari/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/pallavi-agrahari/LeetCode/tree/master/0342-power-of-four) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pallavi-agrahari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
