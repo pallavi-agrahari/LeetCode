@@ -25,17 +25,28 @@ class Solution {
         }
         return head;*/
 
-        // Approach2
-        ListNode current=head;
-        ListNode prev=null;
-        while(current!=null){
-            ListNode front=current.next;
-            current.next=prev;
-            prev=current;
-            current=front;
-            // current.next=prev;
-        }
-        return prev;
+        // Approach2 (iterative)
+
+        // ListNode current=head;
+        // ListNode prev=null;
+        // while(current!=null){
+        //     ListNode front=current.next;
+        //     current.next=prev;
+        //     prev=current;
+        //     current=front;
+        //     // current.next=prev;
+        // }
+        // return prev;
+
+        //Approach 3 (recursive)
+         if(head==null || head.next==null){
+            return head;
+         } 
+         ListNode newhead=reverseList(head.next);
+         ListNode front=head.next;
+         front.next=head;
+         head.next=null;
+         return newhead;
         
     }
 }
