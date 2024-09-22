@@ -8,7 +8,7 @@ class Solution {
             if(nums[mid]==target){
                 return mid;
             }
-            //left sorted
+            //left sorted132    
             if(nums[low]<=nums[mid]){
                 if(nums[mid]>=target && nums[low] <=target ){
                     high=mid-1;
