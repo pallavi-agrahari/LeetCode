@@ -29,13 +29,8 @@ class Solution {
         while(r<s.length()){
             hash[s.charAt(r)-'A']++;
             maxf=Math.max(maxf,hash[s.charAt(r)-'A']);
-            if(((r-l+1)-maxf)>k){
+            while(((r-l+1)-maxf)>k){
                 hash[s.charAt(l)-'A']--;
-                // maxf=0;
-                // for(int i=0;i<26;i++){
-                //     maxf=Math.max(maxf,hash[s.charAt(r)-'A']);
-                //     l=l+1;
-                // }
                 l++;
             }
             if((r-l+1)-maxf<=k){
