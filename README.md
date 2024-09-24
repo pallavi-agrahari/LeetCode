@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/pallavi-agrahari/LeetCode/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Matrix
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pallavi-agrahari/LeetCode/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String Matching
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pallavi-agrahari/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/pallavi-agrahari/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
