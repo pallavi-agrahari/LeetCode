@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pallavi-agrahari/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pallavi-agrahari/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/pallavi-agrahari/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/pallavi-agrahari/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/pallavi-agrahari/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/pallavi-agrahari/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pallavi-agrahari/LeetCode/tree/master/0342-power-of-four) |
