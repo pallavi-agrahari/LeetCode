@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/pallavi-agrahari/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Matrix
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/pallavi-agrahari/LeetCode/tree/master/0561-array-partition) |
+| [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pallavi-agrahari/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0229-majority-element-ii) |
+| [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Bit Manipulation
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
+| [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String Matching
 |  |
