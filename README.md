@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pallavi-agrahari/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pallavi-agrahari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pallavi-agrahari/LeetCode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
