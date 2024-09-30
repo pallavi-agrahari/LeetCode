@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/pallavi-agrahari/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pallavi-agrahari/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Bit Manipulation
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pallavi-agrahari/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/pallavi-agrahari/LeetCode/tree/master/1827-invalid-tweets) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/pallavi-agrahari/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pallavi-agrahari/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
