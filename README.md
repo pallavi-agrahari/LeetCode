@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/pallavi-agrahari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
