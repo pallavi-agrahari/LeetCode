@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/pallavi-agrahari/LeetCode/tree/master/0561-array-partition) |
 | [1046-max-consecutive-ones-iii](https://github.com/pallavi-agrahari/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pallavi-agrahari/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1524-string-matching-in-an-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/pallavi-agrahari/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pallavi-agrahari/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String Matching
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
