@@ -5,9 +5,7 @@ class Solution {
         }
 
         String[] segments = s.trim().split("\\s+");
-
-       
-        if(segments.length == 1 && segments[0].isEmpty()) {
+        if( segments[0].isEmpty()) {
             return 0;
         } 
         else return segments.length;
