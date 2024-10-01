@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pallavi-agrahari/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pallavi-agrahari/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/pallavi-agrahari/LeetCode/tree/master/0415-add-strings) |
+| [0874-backspace-string-compare](https://github.com/pallavi-agrahari/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pallavi-agrahari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/pallavi-agrahari/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pallavi-agrahari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pallavi-agrahari/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/pallavi-agrahari/LeetCode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/pallavi-agrahari/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1524-string-matching-in-an-array](https://github.com/pallavi-agrahari/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pallavi-agrahari/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pallavi-agrahari/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pallavi-agrahari/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/pallavi-agrahari/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Merge Sort
 |  |
 | ------- |
