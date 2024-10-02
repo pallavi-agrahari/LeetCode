@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/pallavi-agrahari/LeetCode/tree/master/1827-invalid-tweets) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/pallavi-agrahari/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pallavi-agrahari/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/pallavi-agrahari/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pallavi-agrahari/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Queue
 |  |
